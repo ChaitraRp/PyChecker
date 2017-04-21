@@ -1,4 +1,4 @@
-**This is a simple repository created for HW3 and HW4 in Open Source Development course - CSCI 4830/7000 at the University of Colorado Boulder
+**This is a simple repository created for HW3 and HW4 in Open Source Development course - CSCI 4830/7000 at the University of Colorado Boulder**
 
 # PyChecker
 
