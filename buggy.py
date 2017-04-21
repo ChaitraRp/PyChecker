@@ -3,8 +3,6 @@ import math
 import pychecker.checker
 
 class Sample:
-    """"""
- 
     def __init__(self, num1, num2, num3):
 
         if "Windows" in platform.platform():
@@ -16,5 +14,4 @@ class Sample:
  
     #----------------------------------------------------------------------
     def addition(this):
-        """"""
         return 1+2+3
